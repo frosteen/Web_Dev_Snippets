@@ -1,0 +1,38 @@
+TAGS:
+<!--> comments
+<!doctype> document type
+<a href=""> links
+<body> body
+<br> break
+<button> buttons
+<div> divsion
+<form action="" method=""> forms
+<h1> - <h6> headers
+<head> head
+<html> starting
+<iframe> webpage
+<img src=""> image w/ source file
+<input type="" value=""> input
+<li> list
+<ul> un orderd list
+<ol> ordered list
+<link rel="" href=""> links files
+<p> paragraph
+<script> javascripts
+<span> spanning
+<table> table
+<tr> table row
+<tb> table data
+
+ATTRIBUTES:
+title
+style
+src
+alt
+class
+id
+href
+action
+method
+type
+value

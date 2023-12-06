@@ -1,5 +1,5 @@
 # Web_Dev_Snippets
-A collection of HTML, JavaScript, SQL snippets that I often use for my freelance projects.
+A collection of Vanilla HTML, JavaScript, SQL snippets that I often use for my freelance projects.
 
 ## Tip
 **If you like my hard work, I would appreciate it if you could buy some coffee for me.**
